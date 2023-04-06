@@ -1,0 +1,45 @@
+.App {
+    text-align: center;
+    align-items: center;
+  }
+  .mydiv{
+    background-color: rgb(177, 7, 7);
+    height: 1500px;
+    color: white;
+  }
+  .mydiv1{
+    background-color: rgb(177, 7, 7);
+    height: 15000px;
+    background-repeat: repeat;
+    align-items: center;
+    color: white;
+  }
+  .text{
+    height: 25px;
+    width: 125px;
+    padding: 10px;
+    border-radius: 10px;
+  
+  }
+  .select{
+    height: 40px;
+    width: 90px;
+    padding: 10px;
+    border-radius: 10px;
+  
+  }
+  .b{
+    text-align: center;
+    background-color: rgb(199, 189, 4);
+    color: white;
+    height: 60px;
+    width: 70px;
+    padding: 10px;
+    border-radius: 10px;
+  }
+.mylabel{
+    
+    font-size: 15px;
+}
+
+  
